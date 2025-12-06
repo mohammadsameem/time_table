@@ -45,53 +45,53 @@ Execute the program using runserver command.
                 <th>sat</th>
             </tr>
           <tr>
-<td class="time-col">8-10</td>
-<td style="background:rgb(231, 231, 22)">freeslot</td>
-<td style="background:red;color:#fff">Holiday</td>
-<td style="background:lightblue">freeslot</td>
-<td style="background:blue;color:#fff">FOCP</td>
-<td style="background:rgb(24, 194, 24);color:#fff">FOCP</td>
-<td style="background:red;color:#fff">freeslot</td>
-</tr>
+       <td class="time-col">8-10</td>
+   <td style="background:rgb(231, 231, 22)">freeslot</td>
+     <td style="background:red;color:#fff">Holiday</td>
+       <td style="background:lightblue">freeslot</td>
+          <td style="background:blue;color:#fff">FOCP</td>
+           <td style="background:rgb(24, 194, 24);color:#fff">FOCP</td>
+            <td style="background:red;color:#fff">freeslot</td>
+      </tr>
 
 
-<tr>
-<td class="time-col">10-12</td>
-<td style="background:rgb(0, 255, 213);color:#ff0000">freeslot</td>
-<td style="background:rgb(149, 255, 0);color:#fff">Holiday</td>
-<td style="background:rgb(255, 136, 0);color:#fff">FOCP</td>
-<td style="background:red;color:#fff">freeslot</td>
-<td style="background:rgb(239, 8, 255);color:#fff">FWAD</td>
-<td style="background:green;color:#fff">freeslot</td>
-</tr>
+ <tr>
+      <td class="time-col">10-12</td>
+        <td style="background:rgb(0, 255, 213);color:#ff0000">freeslot</td>
+         <td style="background:rgb(149, 255, 0);color:#fff">Holiday</td>
+               <td style="background:rgb(255, 136, 0);color:#fff">FOCP</td>
+                 <td style="background:red;color:#fff">freeslot</td>
+                <td style="background:rgb(239, 8, 255);color:#fff">FWAD</td>
+                     <td style="background:green;color:#fff">freeslot</td>
+         </tr>
 
 
-<tr>
-<td class="time-col">12-1</td>
-<td colspan="6" style="background:rgb(54, 255, 9);color:#fff"><center>LUNCH</center></td>
-</tr>
+        <tr>
+           <td class="time-col">12-1</td>
+         <td colspan="6" style="background:rgb(54, 255, 9);color:#fff"><center>LUNCH</center></td>
+            </tr>
 
 
-<tr>
-<td class="time-col">1-3</td>
-<td style="background:rgb(3, 67, 195);color:#fff">FWAD</td>
-<td style="background:green;color:#fff">Holiday</td>
-<td style="background:yellow">MENTOR MEET</td>
-<td style="background:#de0366;color:#fff">free slot</td>
-<td style="background:blue;color:#fff">FOCP</td>
-<td style="background:red;color:#fff">FWAD</td>
-</tr>
+           <tr>
+         <td class="time-col">1-3</td>
+           <td style="background:rgb(3, 67, 195);color:#fff">FWAD</td>
+                 <td style="background:green;color:#fff">Holiday</td>
+                         <td style="background:yellow">MENTOR MEET</td>
+                          <td style="background:#de0366;color:#fff">free slot</td>
+                              <td style="background:blue;color:#fff">FOCP</td>
+                              <td style="background:red;color:#fff">FWAD</td>
+        </tr>
 
 
-<tr>
-<td class="time-col">3-5</td>
-<td style="background:rgb(194, 255, 10);color:#fff">FOCP</td>
-<td style="background:green;color:#fff">Holiday</td>
-<td style="background:yellow">freeslot</td>
-<td style="background:brown;color:#fff">free slot</td>
-<td style="background:blue;color:#fff">FWAD</td>
-<td style="background:red;color:#fff">FWAD</td>
-</tr>
+         <tr>
+                          <td class="time-col">3-5</td>
+                    <td style="background:rgb(194, 255, 10);color:#fff">FOCP</td>
+           <td style="background:green;color:#fff">Holiday</td>
+                 <td style="background:yellow">freeslot</td>
+               <td style="background:brown;color:#fff">free slot</td>
+                       <td style="background:blue;color:#fff">FWAD</td>
+                      <td style="background:red;color:#fff">FWAD</td>
+             </tr>
 
             </tr>
         </table>
